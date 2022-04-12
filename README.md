@@ -4,4 +4,6 @@ A pack of scripts to read/modify/save data from the sensors installed in the UNI
 Current scripts:
 - Script to read data from temperature sensors (TI) connected to the arduino to convert analogous signal into digital. (unizeb-rasp-temperature.py)
 
-@_unizeb_ (instagram)
+@\_unizeb\_ (instagram)  
+www.unizeb.it
+
